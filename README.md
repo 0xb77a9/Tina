@@ -19,5 +19,5 @@ By using Tina, you agree that we may or may not save the following data:
 - The Last 15 (Deleted & Edited) Message Content *IF THE SNIPE COMMAND IS ENABLED*
 
 To contact the developer about deleting your server/user data or any other questions/suggestions:
-Ypu can contact us through Discord in Tina's support server or through me personally (BETA#0999), or by emailing tina.discord.bot@gmail.com. 
+You can contact us through Discord in Tina's support server or through me personally (BETA#0999), or by emailing tina.discord.bot@gmail.com. 
 Note that deletion requests can take from 1 day up to 7 days
